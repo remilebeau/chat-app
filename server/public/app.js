@@ -1,4 +1,4 @@
-const socket = io("ws://localhost:3500");
+const socket = io("https://io-project-kqna.onrender.com");
 
 const msgInput = document.querySelector("#message");
 const nameInput = document.querySelector("#name");
