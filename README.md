@@ -13,6 +13,6 @@ Launch the app in 2 browser windows. In both windows, enter a username and room.
 - Socket.io
 - Node.js
 
-Credit to [Dave Gray Teaches Code](https://courses.davegray.codes/) for project idea and tutorial.
+Credit to [Dave Gray Teaches Code](https://courses.davegray.codes/) for project design and tutorial.
 
-[Link to Dave Gray's Build a Chat App Series](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NOkbTDxKi7grs_oxJhLu07)
+[Link to Dave Gray's Build a Chat App Course](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NOkbTDxKi7grs_oxJhLu07)
