@@ -42,7 +42,7 @@ io.on("connection", (socket) => {
     "message",
     buildMsg(
       ADMIN,
-      "Welcome to Chat App! Enter a name and chat room above. Then, open this page in a second tab, and enter a different name and the same room. Messages sent from one tab will be visible on the other tab."
+      'Welcome to Chat App! Enter a name and chat room above and click "Join". Then, open this page in a second tab, and enter a different name and the same room. Messages sent from one tab will be visible on the other tab.'
     )
   );
 
